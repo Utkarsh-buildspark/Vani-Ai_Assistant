@@ -1,0 +1,5 @@
+speechrecognition
+gtts
+playsound==1.2.2
+wikipedia-api
+PyAudio
